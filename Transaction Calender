@@ -1,0 +1,130 @@
+<html>
+  <head>
+    <title>Transaction Calender</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+  </head>
+  
+  <body>
+    <div class= "chat">
+       <input type="button" onclick="messanger" id= "chat"></button>
+    </div>
+   <div class= "Larrow">
+       <input type="button" onclick="messanger" id= "Larrow"></button>
+    </div>
+   <div class= "Rarrow">
+       <input type="button" onclick="messanger" id= "Rarrow"></button>
+    </div>
+      <div class= "name">
+        <h3>Nathan Setiawan &nbsp; 12D</h3>
+      </div>
+    </div>
+    <div class= "twenty2">
+      <h3>2020</h3>
+    </div>
+    <table>
+      <tr>
+        <td>
+          <div class= "month">
+            <p>January</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+        <td>
+          <div class= "month">
+            <p>February</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+        <td>
+          <div class= "month">
+            <p>March</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+        <td>
+          <div class= "month">
+            <p>April</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+        <td>
+          <div class= "month">
+            <p>May</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+        <td>
+          <div class= "month">
+            <p>June</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+      </tr>
+    </table>
+      <table>
+        <tr>
+          <td>
+          <div class= "month">
+            <p>July</p>
+          </div>
+          <div class= "status">
+            <p>August</p>
+          </div>
+        </td>
+          <td>
+          <div class= "month">
+            <p>September</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+          <td>
+          <div class= "month">
+            <p>October</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+          <td>
+          <div class= "month">
+            <p>November</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+          <td>
+          <div class= "month">
+            <p>December</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+          <td>
+          <div class= "month">
+            <p>January</p>
+          </div>
+          <div class= "status">
+            <p>Pending</p>
+          </div>
+        </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
